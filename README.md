@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Fábio Henrique
+## Hi there 👋 my name is Fábio Henrique
 
 <!--
 **FabioHenrique023/FabioHenrique023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
