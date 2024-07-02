@@ -14,3 +14,6 @@ Claro! Vamos ajustar as informações para cada campo:
 - **💬 Pergunte-me sobre**: Sua especialização em desenvolvimento web com React é uma ótima informação. Isso pode atrair colaboradores ou oportunidades de trabalho.
 - **📫 Como me encontrar**: fabiohomeoffice904@gmail.com .
 - **⚡ Curiosidade**: Foco e perseverança são qualidades valiosas.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)](https://github.com/USERNAME/github-readme-stats)
+
