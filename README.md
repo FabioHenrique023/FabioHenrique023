@@ -15,4 +15,4 @@ Claro! Vamos ajustar as informações para cada campo:
 - **📫 Como me encontrar**: fabiohomeoffice904@gmail.com .
 - **⚡ Curiosidade**: Foco e perseverança são qualidades valiosas.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioHenrique023&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioHenrique023&layout=compact)
