@@ -5,7 +5,6 @@
 -->
 
 | | |
-|---|---|
 | - **🔭 Trabalhando em**: projeto pessoal "CINEMAX" feito com ReactJS. | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioHenrique023&layout=compact) |
 | - **🌱 Aprendendo**: estudando inglês e "Explorando Next.js". 
 | - **👯 Colaborando**: estou aberto a colaborar em projetos de ReactJS. 
