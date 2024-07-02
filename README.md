@@ -11,7 +11,7 @@ Claro! Vamos ajustar as informações para cada campo:
 - **🔭 Trabalhando em**: projeto pessoal "CINEMAX" feito com ReactJS.
 - **🌱 Aprendendo**: estudando inglês e "Explorando Next.js".
 - **👯 Colaborando**: estou aberto a colaborar em projetos de ReactJS.
-- **💬 Pergunte-me sobre**: Sua especialização em desenvolvimento web com React é uma ótima informação. Isso pode atrair colaboradores ou oportunidades de trabalho.
+- **💬 Pergunte-me sobre**: desenvolvimento web com ReactJS.
 - **📫 Como me encontrar**: fabiohomeoffice904@gmail.com .
 - **⚡ Curiosidade**: Foco e perseverança são qualidades valiosas.
 
