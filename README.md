@@ -15,6 +15,5 @@ Claro! Vamos ajustar as informações para cada campo:
 - **📫 Como me encontrar**: fabiohomeoffice904@gmail.com .
 - **⚡ Curiosidade**: Foco e perseverança são qualidades valiosas.
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioHenrique023&show_icons=true&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioHenrique023&layout=compact)](https://github.com/FabioHenrique023/github-readme-stats)
 
