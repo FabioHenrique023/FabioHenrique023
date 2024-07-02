@@ -16,5 +16,5 @@ Claro! Vamos ajustar as informações para cada campo:
 - **⚡ Curiosidade**: Foco e perseverança são qualidades valiosas.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?FabioHenrique023=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioHenrique023&show_icons=true&bg_color=00000000)
 
